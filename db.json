@@ -20,7 +20,7 @@
           "NumberOfReminders": 3,
           "FirstEscalation": 12,
           "SecondEscalation": 14,
-          "NotificationTime": "2022-02-17T06:19:59.347Z",
+          "NotificationTime": "2022-02-17T10:19:59.347Z",
           "EnableForecast": true
         }
       ],
@@ -39,7 +39,7 @@
           "NumberOfReminders": 8,
           "FirstEscalation": 9,
           "SecondEscalation": 10,
-          "NotificationTime": "2022-02-17T06:19:59.347Z",
+          "NotificationTime":"2022-02-17T10:19:59.347Z",
           "EnableForecast": false
         }
       ]
